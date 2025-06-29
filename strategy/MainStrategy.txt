@@ -1,0 +1,50 @@
+Strategy: Extracting User Information for Matchmaking
+
+1. Collecting basic information:
+- Name
+- Age
+- Gender
+- Location
+  - City
+  - extract current location using gps
+  Done
+
+2. Lets talk about user primary work 
+ user can be a student or doing a job
+
+## 2. Gather Interests and Hobbies
+- List of hobbies (e.g., sports, music, reading)
+- Favorite activities
+- Preferred genres (movies, books, music)
+
+## 3. Personality Traits
+- Introvert/Extrovert scale
+- Communication style
+- Values and beliefs
+
+## 4. Relationship Preferences
+- Looking for (friendship, long-term, casual, etc.)
+- Preferred age range
+- Important qualities in a match
+
+## 5. Lifestyle Information
+- Occupation
+- Education
+- Daily routine
+- Travel habits
+
+## 6. Fun and Unique Questions
+- Favorite travel destination
+- Dream job
+- Fun fact about yourself
+
+## 7. Extract and Highlight Interesting Points
+- Identify unique hobbies or experiences
+- Highlight shared interests with potential matches
+- Emphasize positive personality traits
+
+## 8. Privacy and Consent
+- Ensure user consent for data usage
+- Allow users to edit or hide sensitive information
+
+# End of Strategy
