@@ -61,6 +61,7 @@ class InitialConversationGraph:
             "is_success_met": False,
         }
         result = self.graph.invoke(state, config=config)
+        print(f"graph initial invocation result: {result}")
         return result["messages"][-1].content
     
     def run_graph(self, message):
@@ -70,5 +71,5 @@ class InitialConversationGraph:
             "is_success_met": False,
         }
         result = self.graph.invoke(state, config=config)
-        print(result)
+        print(f"graph invocation result: {result}")
         return result["messages"][-1].content
