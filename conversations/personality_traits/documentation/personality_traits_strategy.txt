@@ -1,0 +1,9 @@
+Personality Traits:
+| **Facet**             | **Description**                                                                                                                |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Fantasy**           | Tendency to indulge in imagination and fantasy. High scorers are imaginative; low scorers are grounded and realistic.          |
+| **Aesthetics**        | Appreciation for art, music, beauty. High = artistic sensitivity; Low = indifferent to aesthetic experiences.                  |
+| **Feelings**          | Awareness and openness to one's own emotions. High = emotionally self-aware; Low = emotionally detached.                       |
+| **Actions**           | Willingness to try new activities. High = adventurous; Low = prefers routine.                                                  |
+| **Ideas (Intellect)** | Intellectual curiosity and love of ideas. High = enjoys abstract thinking; Low = prefers practical knowledge.                  |
+| **Values**            | Openness to re-examining social, political, or religious values. High = liberal, open-minded; Low = traditional, conservative. |
